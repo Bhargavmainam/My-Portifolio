@@ -21,3 +21,21 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea{
    padding: 10px 15px;
    font-size: 1rem;
 }
+.text-area{
+    height: 140px;
+}
+/* header */
+.site-header{
+    position: fixed;
+    border-bottom: 1px solid #e4e4e4;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.8);
+}
+.bhar{
+    line-height: 1;
+    font-size: 1.75rem;
+}
+.bhar a{
+    text-decoration: none;
+    color: salmon;
+}
